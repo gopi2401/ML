@@ -1,6 +1,11 @@
 theme: minima
-title: My Markdown Website
-description: Hosted using GitHub Pages
-remote_theme: pages-themes/midnight@v0.2.0
+title: Machine Learning
+author: Gobi
+email: gopicoc2401@gmail.com
+description: Machine Learning Learning Journal
+url: https://gopi2401.site/ML/
+baseurl: "/ML"
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+  - jekyll-seo-tag
