@@ -1,11 +1,5 @@
 # Machine Learning – Full Study Book (Beginner to Advanced)
-
-**Date:** 2026-01-29
-**Source:** [chat.openai.com](https://chatgpt.com/c/69647da9-f9a8-8323-83dd-2c415acdc4b8)
-
 ---
-
-### **ChatGPT**
 
 Here is a complete Machine Learning (ML) full topics list, from basics to advanced, explained in simple English (good for learning + interviews).
 
@@ -29,7 +23,7 @@ ML vs AI vs Deep Learning
 
 Real-world applications of ML
 
-2. Python for Machine Learning
+1. Python for Machine Learning
 
 Python basics for ML
 
